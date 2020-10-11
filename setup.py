@@ -1,17 +1,17 @@
 import setuptools
 
 with open("README.md", "r") as fh:
-    long_description = fh.read()
+    longdescription = fh.read()
 
 setuptools.setup(
-    name="aws",
+    name="AmazonWebScraper",
     version="0.0.1",
     author="Pradham Kuchipudi",
     author_email="pradhamk@gmail.com",
     description="An amazon webscraper",
-    long_description=long_description,
+    long_description=longdescription,
     long_description_content_type="text/markdown",
-    url="https://github.com/PKyahhh/aws",
+    url="https://github.com/PKyahhh/AmazonWebScraper",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
