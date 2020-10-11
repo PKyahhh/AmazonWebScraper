@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Pradham Kuchipudi",
     author_email="pradhamk@gmail.com",
-    description="An amazon webscraper"
+    description="An amazon webscraper",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/PKyahhh/aws",
