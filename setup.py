@@ -11,7 +11,7 @@ setuptools.setup(
     description="An amazon webscraper"
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/PKyahhh/AWS-AmazonWebScraper-",
+    url="https://github.com/PKyahhh/aws",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
